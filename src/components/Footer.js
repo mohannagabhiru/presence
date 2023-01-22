@@ -12,9 +12,9 @@ const Footer = () => {
             <a className="text-2xl mr-6 p-2 rounded-full text-blue-800 hover:bg-blue-800 hover:text-white" href="https://www.linkedin.com/in/nagabhiru-mohan-govind-a157b1148/">
             <FaLinkedin />
             </a>
-            <a className="text-2xl mr-6 p-2 rounded-full text-blue-400 hover:bg-blue-400 hover:text-white" href="https://twitter.com/mohannagabhiru">
+            {/* <a className="text-2xl mr-6 p-2 rounded-full text-blue-400 hover:bg-blue-400 hover:text-white" href="https://twitter.com/mohannagabhiru">
             <FaTwitter />
-            </a>
+            </a> */}
             </div>
         </div>
     )
