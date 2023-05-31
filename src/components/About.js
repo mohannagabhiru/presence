@@ -1,6 +1,6 @@
 import React from 'react'
 import {FaGithub,FaLinkedin,FaTwitter} from 'react-icons/fa';
-import hero from "../pics/hero.png";
+import hero from "../pics/Mohann.jpg";
 
 const About = () => {
     return (
